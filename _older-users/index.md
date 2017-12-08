@@ -3,6 +3,7 @@ title: "Web Accessibility and Older People: Meeting the Needs of Ageing Web User
 nav_title: "Overview"
 order: 1
 permalink: /older-users/
+redirect_from: /
 ---
 
 (This page was developed as part of the [WAI-AGE Project, introduced
