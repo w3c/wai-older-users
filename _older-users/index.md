@@ -6,7 +6,7 @@ permalink: /older-users/
 redirect_from: /
 ---
 
-{::options toc_levels="2..3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
@@ -40,7 +40,13 @@ The needs of older users overlap with the accessibility needs of people with dis
 
 These issues overlap with the accessibility needs of people with disabilities. Thus, websites and tools that are accessible to people with disabilities will also be accessible to older users.
 
+{% include excol.html type="start" id="statistics" %}
+
+## Statistics and Research
+
 The following statistics and research performed by the WAI-AGE Project in 2010 provides an insight the impact and prevalence of age-related impairments that affect web use.
+
+{% include excol.html type="middle" %}
 
 ### Ageing and hearing loss
 
@@ -125,6 +131,8 @@ over 20% of those over 70 years. MCI can result in:
 -   Concentration and distraction issues (consider the volume of
     information on some pages, and the multiple animated advertisements
     that are sometimes present)
+
+{% include excol.html type="end" %}
 
 Understanding Older Web Users
 -----------------------------
