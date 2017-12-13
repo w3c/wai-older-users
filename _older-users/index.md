@@ -21,7 +21,7 @@ redirect_from: /
 
 ## Introduction
 
-Older Web users are an increasing market segment and important customer base for many businesses, governments, and other organizations. As we age, it is common to face age-related impairments that affect how we use the web. By applying [international standards and guidelines](https://www.w3.org/WAI/guid-tech.html) websites and tools that are accessible to people with disabilities will also work better for older users with accessibility needs due to ageing. Such standards are, for example, W3C's [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag), [Authoring Tools Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/WAI/intro/uaag) and [User Agent Accessibility Guidelines (UAAG) 2.0](https://www.w3.org/WAI/intro/uaag).
+Older Web users are an increasing market segment and important customer base for many businesses, governments, and other organizations. As we age, it is common to face age-related impairments that affect how we use the web. By applying [international standards and guidelines](https://www.w3.org/WAI/guid-tech.html) websites and tools that are accessible to people with disabilities will also work better for older users with accessibility needs due to ageing. Such standards are, for example, W3C's [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/intro/wcag), [Authoring Tools Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/WAI/intro/atag) and [User Agent Accessibility Guidelines (UAAG) 2.0](https://www.w3.org/WAI/intro/uaag).
 
 ## Overlapping Needs: Older Users and Disabled Users
 
