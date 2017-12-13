@@ -80,7 +80,14 @@ they are drawn from different guidelines to address a particular aspect.
 
 ### Perceivable information and user interface {#p}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Text size {#textsize}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Many older people require large text due to declining vision, including
 text in form fields and other controls.
@@ -113,8 +120,18 @@ in "How to Meet WCAG 2.0".
 **Literature review reference:** [Vision decline with
 ageing](http://www.w3.org/TR/wai-age-literature/#whatvision).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Text style and text layout {#textstyle}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Text style and its visual presentation impacts how hard or easy it is
 for people to read, especially older people with declining vision.
@@ -152,8 +169,18 @@ guidelines](http://www.w3.org/TR/wai-age-literature/#existguide), and
 [Studies of elderly Web users’ specific disabilities -
 Vision](http://www.w3.org/TR/wai-age-literature/#elderlyusersvision).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Color and contrast {#color}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Most older people's color perception changes, and they lose contrast
 sensitivity.
@@ -204,8 +231,18 @@ ageing](http://www.w3.org/TR/wai-age-literature/#whatvision), and
 [Studies of elderly Web users’ specific disabilities:
 vision](http://www.w3.org/TR/wai-age-literature/#elderlyusersvision).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Multimedia {#multimedia}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Because many older people's hearing or vision declines, they often need
 transcripts, captions, and low background sound.
@@ -266,8 +303,18 @@ ageing](http://www.w3.org/TR/wai-age-literature/#whatvision) and
 [Hearing loss with
 age](http://www.w3.org/TR/wai-age-literature/#whathearing).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Text-to-speech (speech synthesis) {#speech}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Some older people use text-to-speech (speech synthesis) software, which
 is becoming increasingly available in browsers and operating systems.
@@ -299,8 +346,18 @@ Content](http://www.w3.org/WAI/WCAG20/quickref/#text-equiv-all) and
 Relationships](http://www.w3.org/WAI/WCAG20/quickref/#content-structure-separation-programmatic)
 in "How to Meet WCAG 2.0".
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### CAPTCHA {#captcha}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Older people with declining eyesight may not be able to discern the
 characters in a CAPTCHA, especially because CAPTCHAs often have low
@@ -332,9 +389,20 @@ complex background](../img/captcha.png)
 **Literature review reference:** [Vision decline with
 ageing](http://www.w3.org/TR/wai-age-literature/#whatvision).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ### Operable user interface and navigation {#o}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Links {#links}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Many older people need links to be particularly clear and identifiable
 due to declining vision and cognition.
@@ -378,8 +446,18 @@ in "How to Meet WCAG 2.0".
 friendly’ Web
 guidelines](http://www.w3.org/TR/wai-age-literature/#existguide).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Navigation and location {#navigation}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Many older people need navigation to be particularly clear due to
 declining cognitive abilities.
@@ -428,8 +506,18 @@ guidelines](http://www.w3.org/TR/wai-age-literature/#existguide) and
 [Studies of elderly Web users’ specific disabilities -
 Cognition](http://www.w3.org/TR/wai-age-literature/#elderlyuserscog).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Mouse use {#mouse}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 It is difficult for some older people to use a mouse due to declining
 vision or dexterity.
@@ -481,8 +569,18 @@ diminishment](http://www.w3.org/TR/wai-age-literature/#whatmotor) and
 [Studies of elderly Web users’ specific disabilities -
 Mobility](http://www.w3.org/TR/wai-age-literature/#elderlyusersmobility).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Keyboard use and tabbing {#keyboard}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Some older people cannot use a mouse well or at all and instead use a
 keyboard.
@@ -542,8 +640,18 @@ diminishment](http://www.w3.org/TR/wai-age-literature/#whatmotor) and
 [Studies of elderly Web users’ specific disabilities -
 Mobility](http://www.w3.org/TR/wai-age-literature/#elderlyusersmobility).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Distractions {#distractions}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Some older people are particularly distracted by any movement and sound
 on web pages.
@@ -590,8 +698,18 @@ age](http://www.w3.org/TR/wai-age-literature/#whatcog) and [Studies of
 elderly Web users’ specific disabilities -
 Cognition.](http://www.w3.org/TR/wai-age-literature/#elderlyuserscog)
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Sufficient time {#timing}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 It takes some older people longer to read text and complete transactions
 due to declining vision, dexterity, or cognition.
@@ -635,9 +753,20 @@ age](http://www.w3.org/TR/wai-age-literature/#whatcog) and [Studies of
 elderly Web users’ specific disabilities -
 Cognition.](http://www.w3.org/TR/wai-age-literature/#elderlyuserscog)
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ### Understandable information and user interface {#u}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Page organization {#pageorg}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Many older people are inexperienced web users without advanced browsing
 habits and therefore read the whole page, so good page organization is
@@ -679,8 +808,18 @@ age](http://www.w3.org/TR/wai-age-literature/#whatcog) and [Previous
 approaches to ‘senior friendly’ Web
 guidelines](http://www.w3.org/TR/wai-age-literature/#existguide).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Understandable language {#language}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Many older people find it particularly difficult to understand complex
 sentences, unusual words, and technical jargon.
@@ -721,8 +860,18 @@ age](http://www.w3.org/TR/wai-age-literature/#whatcog) and [Previous
 approaches to ‘senior friendly’ Web
 guidelines](http://www.w3.org/TR/wai-age-literature/#existguide).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Consistent navigation and labeling {#consistent}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 For people who are new to the web, and older people with some types of
 cognitive decline, consistent navigation and presentation is
@@ -758,8 +907,18 @@ age](http://www.w3.org/TR/wai-age-literature/#whatcog) and [Previous
 approaches to ‘senior friendly’ Web
 guidelines](http://www.w3.org/TR/wai-age-literature/#existguide).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Pop-ups and new windows {#popups}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Some older people experiencing cognitive decline can be confused or
 distracted by pop-ups, new windows, or new tabs.
@@ -798,8 +957,18 @@ in "How to Meet WCAG 2.0".
 **Literature review reference:** [Training the elderly to Use ICT and
 the Web](http://www.w3.org/TR/wai-age-literature/#training)
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Page refresh and updates {#refresh}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 Some older people with declining vision or cognition can miss content
 that automatically updates or refreshes in a page.
@@ -849,8 +1018,18 @@ in "How to Meet WCAG 2.0".
 disabilities -
 Cognition](http://www.w3.org/TR/wai-age-literature/#elderlyuserscog)
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Instructions and input assistance {#instructions}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 It is difficult for some older people to understand the requirements of
 forms and transactions.
@@ -896,8 +1075,18 @@ in "How to Meet WCAG 2.0".
 **Literature review reference:** [Aspects of Web Design affecting the
 elderly - Forms](http://www.w3.org/TR/wai-age-literature/#designforms).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Error prevention and recovery for forms {#errors}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
 
 It is difficult for some older people to use forms and complete
 transactions due to declining cognitive abilities.
@@ -953,10 +1142,21 @@ in "How to Meet WCAG 2.0".
 **Literature review reference:** [Aspects of Web Design affecting the
 elderly - Forms](http://www.w3.org/TR/wai-age-literature/#designforms).
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ### Robust content and reliable interpretation {#r}
 
+{::nomarkdown}
+{% capture boxtitle %}
+{:/}
 #### Older equipment/software {#oldequip}
+{::nomarkdown}
+{% endcapture %}
+{% include box.html type="start" title=boxtitle class="large" %}
+{:/}
+
 
 Some older people will be using older browsers that might not be as
 capable or fault tolerant as current releases.
@@ -976,3 +1176,7 @@ capable or fault tolerant as current releases.
 More techniques are listed under [4.1.1 -
 Parsing](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat-parses) in
 "How to Meet WCAG 2.0".
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
