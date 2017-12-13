@@ -27,14 +27,14 @@ Older Web users are an increasing market segment and important customer base for
 
 The needs of older users overlap with the accessibility needs of people with disabilities. Older users may experience impairment or decline in:
 
--   **vision** - including reduced contrast sensitivity, color
+-   **vision** — including reduced contrast sensitivity, color
     perception, and near-focus, making it difficult to read web pages
--   **physical ability** - including reduced dexterity and fine motor
+-   **physical ability** — including reduced dexterity and fine motor
     control, making it difficult to use a mouse and click small targets
--   **hearing** - including difficulty hearing higher-pitched sounds and
+-   **hearing** — including difficulty hearing higher-pitched sounds and
     separating sounds, making it difficult to hear podcasts and other
     audio, especially when there is background music
--   **cognitive ability** - including reduced short-term memory,
+-   **cognitive ability** — including reduced short-term memory,
     difficulty concentrating, and being easily distracted, making it
     difficult to follow navigation and complete online tasks
 
@@ -79,9 +79,9 @@ Project in 2010, but are still relevant today.
 
 #### **Prevalence of physical decline:** (Conditions most commonly reported)
 
--   Arthritis - affects at least 50% of people over 65
--   Essential tremor - affects up to 20% of people over 65
--   Parkinson's Disease - affects approximately 4% of people over 85
+-   Arthritis affects at least 50% of people over 65
+-   Essential tremor affects up to 20% of people over 65
+-   Parkinson's Disease affects approximately 4% of people over 85
 
 Motor skill decline impacts on dexterity and can result from many
 conditions, for example arthritis with associated joint stiffening and
@@ -163,7 +163,8 @@ Understanding Older Web Users
 ### Practical Computer Guidance to Help Older Users
 
 -   [Better Web Browsing: Tips for Customizing Your
-    Computer](https://www.w3.org/WAI/users/browsing). This practical
+    Computer](https://www.w3.org/WAI/users/browsing) <br>
+    This practical
     resource provides guidance on how to set up your computer to work
     better for your specific needs and preferences; for example,
     enlarging text, making the mouse pointer bigger, and using the
