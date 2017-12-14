@@ -27,14 +27,14 @@ Older Web users are an increasing market segment and important customer base for
 
 The needs of older users overlap with the accessibility needs of people with disabilities. Older users may experience impairment or decline in:
 
--   **vision** - including reduced contrast sensitivity, color
+-   **vision** — including reduced contrast sensitivity, color
     perception, and near-focus, making it difficult to read web pages
--   **physical ability** - including reduced dexterity and fine motor
+-   **physical ability** — including reduced dexterity and fine motor
     control, making it difficult to use a mouse and click small targets
--   **hearing** - including difficulty hearing higher-pitched sounds and
+-   **hearing** — including difficulty hearing higher-pitched sounds and
     separating sounds, making it difficult to hear podcasts and other
     audio, especially when there is background music
--   **cognitive ability** - including reduced short-term memory,
+-   **cognitive ability** — including reduced short-term memory,
     difficulty concentrating, and being easily distracted, making it
     difficult to follow navigation and complete online tasks
 
@@ -48,7 +48,7 @@ The following statistics and research performed by the WAI-AGE Project in 2010 p
 
 {% include excol.html type="middle" %}
 
-### Ageing and hearing loss
+### Ageing and Hearing Loss
 
 #### Impact of hearing loss:
 
@@ -63,9 +63,9 @@ The following statistics and research performed by the WAI-AGE Project in 2010 p
 
 Hearing starts to decline at around 50 years and affects a person's ability to hear higher pitched sounds as well as discern the foreground from background audio such as music or other sounds.  Some hearing loss is experienced by 47% of people 61 to 80 years and 93% of people over 81 years.  Moderate or severe hearing loss or profound deafness is experienced by 20% of people aged 61 - 80 and 75% of people over 80.
 
-### Ageing and physical decline
+### Ageing and Physical Decline
 
-#### **Impact of ageing and physical decline:**
+#### **Impact of physical decline:**
 
 Motor skill decline can result from many conditions including arthritis,
 essential tremor, and Parkinson's Disease:
@@ -77,11 +77,11 @@ essential tremor, and Parkinson's Disease:
 The following figures are from a study carried out by the WAI-AGE
 Project in 2010, but are still relevant today.
 
-#### **Prevalence of ageing and physical decline:** (Conditions most commonly reported)
+#### **Prevalence of physical decline:** (Conditions most commonly reported)
 
--   Arthritis - affects at least 50% of people over 65
--   Essential tremor - affects up to 20% of people over 65
--   Parkinson's Disease - affects approximately 4% of people over 85
+-   Arthritis affects at least 50% of people over 65
+-   Essential tremor affects up to 20% of people over 65
+-   Parkinson's Disease affects approximately 4% of people over 85
 
 Motor skill decline impacts on dexterity and can result from many
 conditions, for example arthritis with associated joint stiffening and
@@ -96,9 +96,9 @@ essential tremor (one of many forms of tremor) is estimated to affect up
 to 5% of those over 40 and up to 20% of people over 65; and Parkinson's
 affects around 4% of those over 85.
 
-### Ageing and cognitive decline
+### Ageing and Cognitive Decline
 
-#### **Impact of ageing and cognitive decline:**
+#### **Impact of cognitive decline:**
 
 Navigation, comprehension, and task completion can be affected by:
 
@@ -107,11 +107,11 @@ Navigation, comprehension, and task completion can be affected by:
 -   Distraction from movement or irrelevant material
 -   Difficulty coping with information overload
 
-#### **Prevalence of ageing and cognitive decline:** (Conditions most commonly reported)
+#### **Prevalence of cognitive decline:** (Conditions most commonly reported)
 
 Dementia (UK):
 
--   1.4% of people 65-69 years
+-   1.4% of people 65–69 years
 -   24% of people 85+ years
 
 Mild cognitive impairment (MCI) is more common:
@@ -121,7 +121,7 @@ Mild cognitive impairment (MCI) is more common:
 Cognitive decline is also common, though only dementia and mild
 cognitive impairment are commonly reported. While Dementia (including
 Alzheimer's disease) is experienced by some older people (1.4% of people
-65-69 years increasing to 24% of people over 85 years in the UK), forms
+65–69 years increasing to 24% of people over 85 years in the UK), forms
 of mild cognitive impairment (or MCI) are much more common, affecting
 over 20% of those over 70 years. MCI can result in:
 
@@ -163,7 +163,8 @@ Understanding Older Web Users
 ### Practical Computer Guidance to Help Older Users
 
 -   [Better Web Browsing: Tips for Customizing Your
-    Computer](https://www.w3.org/WAI/users/browsing). This practical
+    Computer](https://www.w3.org/WAI/users/browsing) <br>
+    This practical
     resource provides guidance on how to set up your computer to work
     better for your specific needs and preferences; for example,
     enlarging text, making the mouse pointer bigger, and using the
