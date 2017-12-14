@@ -65,7 +65,7 @@ Hearing starts to decline at around 50 years and affects a person's ability to h
 
 ### Ageing and Physical Decline
 
-#### **Impact of physical decline:**
+#### Impact of physical decline:
 
 Motor skill decline can result from many conditions including arthritis,
 essential tremor, and Parkinson's Disease:
@@ -77,7 +77,9 @@ essential tremor, and Parkinson's Disease:
 The following figures are from a study carried out by the WAI-AGE
 Project in 2010, but are still relevant today.
 
-#### **Prevalence of physical decline:** (Conditions most commonly reported)
+#### Prevalence of physical decline:
+
+(Conditions most commonly reported)
 
 -   Arthritis affects at least 50% of people over 65
 -   Essential tremor affects up to 20% of people over 65
@@ -98,7 +100,7 @@ affects around 4% of those over 85.
 
 ### Ageing and Cognitive Decline
 
-#### **Impact of cognitive decline:**
+#### Impact of cognitive decline:
 
 Navigation, comprehension, and task completion can be affected by:
 
@@ -107,7 +109,9 @@ Navigation, comprehension, and task completion can be affected by:
 -   Distraction from movement or irrelevant material
 -   Difficulty coping with information overload
 
-#### **Prevalence of cognitive decline:** (Conditions most commonly reported)
+#### Prevalence of cognitive decline:
+
+(Conditions most commonly reported)
 
 Dementia (UK):
 
