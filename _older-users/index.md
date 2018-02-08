@@ -40,9 +40,9 @@ A European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) 
 
 The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](http://www.w3.org) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) address most older user needs.
 
-### More Background: Literature Review and Article
-{:#more-background}
-
+{::nomarkdown}
+{% include box.html type="start" h="3" title=" More Background: Literature Review and Article " class="simple aside" %}
+{:/}
 <dl>
 
 <dt>[Overview of "Web Accessibility for Older Users: A Literature Review"](http://www.w3.org/WAI/intro/wai-age-literature)</dt>
@@ -53,6 +53,10 @@ The results of the research and subsequent work determined that existing interna
 <dd>Explains age-related impairments that impact web use, requirements for web design that enhance the ability of older people to use the web and how existing accessibility guidelines for people with disabilities cover the needs of older users, and future work in this area.</dd>
 
 </dl>
+@@ content
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ## Overlapping Needs: People who are Elderly and People with Disabilities
 {:#needs}
@@ -131,5 +135,3 @@ _**Note:** These resources have not been updated recently. Some details may be o
 <dd>Provides guidance for users on how to set your computer to work better for your specific needs and preferences so it's easier to use websites; for example, enlarging text, making the mouse pointer bigger, and using the keyboard instead of the mouse to browse websites.</dd>
 
 </dl>
-
-
