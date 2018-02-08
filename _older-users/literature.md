@@ -21,13 +21,11 @@ order: 3
 
 [Web Accessibility for Older Users: A Literature Review](http://www.w3.org/TR/wai-age-literature/) analyzes guidelines, professional articles, and scientific literature on the requirements of people with Web accessibility needs related to ageing.
 
-The focus of the Literature Review is particularly on Europe, but also includes research outside of Europe. Most of the findings apply internationally.
-
 ## Who the Literature Review is for {#for}
 
 The purpose of the Literature Review is to inform education and outreach to better promote accessibility solutions for older Web users, and potentially develop profiles or extensions to WAI guidelines.
 
-The Literature Review itself is primarily for researchers and academics. However, the outcomes of the Literature Review will be used to develop resources for users, industry, and others.
+The Literature Review itself is primarily for researchers and academics. The outcomes of the Literature Review area also being used to develop resources for users, industry, and others.
 
 ## What is in the Literature Review {#is}
 
