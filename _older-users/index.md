@@ -41,7 +41,7 @@ A European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) 
 The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](http://www.w3.org) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) address most older user needs.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="simple aside" %}
+{% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="full" %}
 <dl>
 
 <dt><a href="http://www.w3.org/WAI/intro/wai-age-literature">Overview of "Web Accessibility for Older Users: A Literature Review"</a></dt>
@@ -74,13 +74,14 @@ Many older people have age-related impairments that can affect how they use the 
 These issues overlap with the accessibility needs of people with disabilities. Thus, websites, applications, and tools that are accessible to people with disabilities are more accessible to older users as well.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More About Older User Needs" class="simple aside" %}
+{% include box.html type="start" h="3" title=" More About Older User Needs " class="full" %}
 {:/}
 
 -   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
 -   For short story (_persona_) showing some accessibility issues that an older person can face on the web, see [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](https://www.w3.org/WAI/intro/people-use-web/stories#retiree) in Stories of Web Users.
 -   If you want to learn about older users directly by including real people in your user studies, see [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/users/involving.html).
 -   **For videos** and descriptions of issues that impact people who are elderly and people with disabilities, see [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/). These videos include older users: [Customizable Text](https://www.w3.org/WAI/perspectives/customizable), [Colors with Good Contrast](https://www.w3.org/WAI/perspectives/contrast), [Notifications and Feedback](https://www.w3.org/WAI/perspectives/notifications), [Understandable Content](https://www.w3.org/WAI/perspectives/understandable), and [Large Links, Buttons, and Controls.](https://www.w3.org/WAI/perspectives/controls)
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -101,7 +102,7 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 </dl>
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More About Standards" class="simple aside" %}
+{% include box.html type="start" h="3" title="More About Standards" class="full" %}
 {:/}
 
 -   For an introduction to accessibility guidelines and other standards, see [W3C Accessibility Standards Overview](https://www.w3.org/WAI/guid-tech).
