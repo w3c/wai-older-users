@@ -75,12 +75,13 @@ These issues overlap with the accessibility needs of people with disabilities. T
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More About Older User Needs" class="simple aside" %}
+{:/}
 
 -   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
 -   For short story (_persona_) showing some accessibility issues that an older person can face on the web, see [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](https://www.w3.org/WAI/intro/people-use-web/stories#retiree) in Stories of Web Users.
 -   If you want to learn about older users directly by including real people in your user studies, see [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/users/involving.html).
 -   **For videos** and descriptions of issues that impact people who are elderly and people with disabilities, see [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/). These videos include older users: [Customizable Text](https://www.w3.org/WAI/perspectives/customizable), [Colors with Good Contrast](https://www.w3.org/WAI/perspectives/contrast), [Notifications and Feedback](https://www.w3.org/WAI/perspectives/notifications), [Understandable Content](https://www.w3.org/WAI/perspectives/understandable), and [Large Links, Buttons, and Controls.](https://www.w3.org/WAI/perspectives/controls)
-
+{::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
@@ -101,8 +102,11 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More About Standards" class="simple aside" %}
+{:/}
 
 -   For an introduction to accessibility guidelines and other standards, see [W3C Accessibility Standards Overview](https://www.w3.org/WAI/guid-tech).
+
+{::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
