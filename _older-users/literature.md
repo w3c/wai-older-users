@@ -1,5 +1,5 @@
 ---
-title: "“Web Accessibility for Older Users: A Literature Review” Overview"
+title: " Overview of “Web Accessibility for Older Users: A Literature Review”"
 nav_title: "Literature Review Overview"
 order: 3
 ---
@@ -51,10 +51,10 @@ The bulk of the Literature Review analyzes:
 
 A finding of the Literature Review is that existing WAI guidelines address many requirements of older web users. Yet, there is little reference to the [WAI guidelines](https://www.w3.org/WAI/guid-tech.html) in literature and guidance covering the needs of older Web users.
 
-### Technical report format
+## Technical report format
 
 The Literature Review follows the W3C format for technical reports that includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status.
 
-### Who developed the WAI-AGE Literature Review
+## Who developed the WAI-AGE Literature Review
 
 The Literature Review was developed with the [Education and Outreach Working Group](https://www.w3.org/WAI/EO/) (EOWG), which is part of the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
