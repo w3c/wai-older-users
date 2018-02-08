@@ -1,31 +1,63 @@
 ---
-title: "Accessibility and Meeting the Needs of Ageing Web Users"
-nav_title: "Overview"
+title: " Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users"
 order: 1
 permalink: /older-users/
 redirect_from: /
 ---
 
-{::options toc_levels="2" /}
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
+Designing products that are easier for older people to use is similar to designing for people with disabilities.
+
+Guidance on how to make your websites, web applications, and web tools work better for older users is covered in existing international accessibility standards from the <abbr title="World Wide Web Consortium">W3C</abbr>, including Web Content Accessibility Guidelines (WCAG).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::options toc_levels="2" /}
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="full" %}
 {:/}
-
 -   TOC is created automatically.
 {:toc}
-
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction
+## Background
+{:#background}
 
-Older Web users are an increasing market segment and important customer base for many businesses, governments, and other organizations. As we age, it is common to face age-related impairments that affect how we use the web. By [applying international standards and guidelines](https://www.w3.org/WAI/guid-tech.html), WAI's [Web Content Accessibility Guidelines WCAG 2.0](https://www.w3.org/WAI/intro/wcag) and WAI's [User Agent Accessibility Guidelines UAAG](https://www.w3.org/WAI/intro/uaag), websites and tools that are accessible to people with disabilities will also work better for older users with accessibility needs due to ageing.
+Older web users are an increasing market segment and an important target group for many businesses, governments, and other organizations.
 
-## Overlapping Needs: Older Users and Disabled Users
+A European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) researched:
 
-The needs of older users overlap with the accessibility needs of people with disabilities. Older users may experience impairment or decline in:
+-   the needs of older web users,
+-   existing guidance for addressing older user needs, and
+-   the overlap with web accessibility for people with disabilities.
+
+The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](http://www.w3.org) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) address most older user needs.
+
+### More Background: Literature Review and Article
+{:#more-background}
+
+<dl>
+
+<dt>[Overview of "Web Accessibility for Older Users: A Literature Review"](http://www.w3.org/WAI/intro/wai-age-literature)</dt>
+<dd>Provides a brief introduction of the scope, audience, and content of the [Literature Review [@@format]](http://www.w3.org/TR/wai-age-literature/).</dd>
+
+<dt>[Older Users Online - WAI Guidelines Address Older Users’ Web Experience](https://www.w3.org/WAI/posts/2009/older-users-online)  
+<cite>(Originally published in User Experience Magazine, Vol 8, Issue 1, 2009)</cite></dt>
+<dd>Explains age-related impairments that impact web use, requirements for web design that enhance the ability of older people to use the web and how existing accessibility guidelines for people with disabilities cover the needs of older users, and future work in this area.</dd>
+
+</dl>
+
+## Overlapping Needs: People who are Elderly and People with Disabilities
+{:#needs}
+
+Many older people have age-related impairments that can affect how they use the web, such as declining:
 
 -   **vision** — including reduced contrast sensitivity, color
     perception, and near-focus, making it difficult to read web pages
@@ -38,65 +70,66 @@ The needs of older users overlap with the accessibility needs of people with dis
     difficulty concentrating, and being easily distracted, making it
     difficult to follow navigation and complete online tasks
 
-These issues overlap with the accessibility needs of people with disabilities. Thus, websites and tools that are accessible to people with disabilities will also be accessible to older users.
+These issues overlap with the accessibility needs of people with disabilities. Thus, websites, applications, and tools that are accessible to people with disabilities are more accessible to older users as well.
+
+### More About Older User Needs
+{:#more-needs}
+
+-   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
+-   For short story (_persona_) showing some accessibility issues that an older person can face on the web, see [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](https://www.w3.org/WAI/intro/people-use-web/stories#retiree) in Stories of Web Users.
+-   If you want to learn about older users directly by including real people in your user studies, see [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/users/involving.html).
+-   **For videos** and descriptions of issues that impact people who are elderly and people with disabilities, see [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/). These videos include older users: [Customizable Text](https://www.w3.org/WAI/perspectives/customizable), [Colors with Good Contrast](https://www.w3.org/WAI/perspectives/contrast), [Notifications and Feedback](https://www.w3.org/WAI/perspectives/notifications), [Understandable Content](https://www.w3.org/WAI/perspectives/understandable), and [Large Links, Buttons, and Controls.](https://www.w3.org/WAI/perspectives/controls)
+
+## Guidelines and Other Standards
+{:#standards}
+
+The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an international consortium that develops web standards. W3C's Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) focuses on making the web accessible to people with disabilities. Standards that are particularly relevant for older users include:
+
+<dl>
+
+<dt>Web Content Accessibility Guidelines [WCAG](http://www.w3.org/WAI/intro/wcag)</dt>
+<dd>WCAG materials include guidelines and techniques for making websites and web applications work better for people with disabilities, as well as for older users with accessibility needs due to ageing.</dd>
+
+<dt>User Agent Accessibility Guidelines [UAAG](http://www.w3.org/WAI/intro/uaag)</dt>
+<dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies](http://www.w3.org/WAI/users/involving#at).</dd>
+
+</dl>
+
+### More about standards
+{:#more-standards}
+
+-   For an introduction to accessibility guidelines and other standards, see [W3C Accessibility Standards Overview](https://www.w3.org/WAI/guid-tech).
+
+### Detailed Guidance on Designing for Older Users
+{:#wcag-details}
+
+**A key resource is [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](http://www.w3.org/WAI/older-users/developing.html).** It:
+
+-   Introduces how to use WCAG 2.0 to improve the accessibility and usability of websites and web applications for older people.
+-   Is organized by user needs and WCAG principles.
+-   Lists specific WCAG success criteria and techniques that apply to improving the user experience of older people.
+-   Includes references to the Literature Review.
+
+## Advocating and Educating
+{:#promote }
 
 
-Understanding Older Web Users
------------------------------
+The following resources can help promote accessibility for older users.  
+_**Note:** These resources have not been updated recently. Some details may be out of date, yet most of the general concepts still apply._
 
--   [Stories of Web
-    Users](https://www.w3.org/WAI/intro/people-use-web/stories)
-    describes how different users experience the web. An example is
-    given (Mr. Yunus) of an 85 year old retiree with reduced vision, a
-    hand tremor and mild short-term memory loss who simply cannot use
-    the web properly because of poorly designed web pages
--   [Involving Users in Web Projects for Better, Easier
-    Accessibility](https://www.w3.org/WAI/users/involving.html)
-    describes the benefits of obtaining feedback from actual users
--   [Older Users Online - WAI Guidelines Address Older Users' Web
-    experience](https://www.w3.org/WAI/posts/2009/older-users-online)
-    (Originally published in User Experience Magazine, Vol 8, Issue
-    1, 2009) explains age-related impairments that impact web use,
-    requirements for web design that enhance the ability of older people
-    to use the Web and how existing accessibility guidelines for people
-    with disabilities cover the needs of older users, and future work in
-    this area.
--   [Web Accessibility for Older Users: A Literature
-    Review](https://www.w3.org/TR/2008/WD-wai-age-literature-20080514/)
-    prepared for the WAI-AGE project (which ended on 30 September 2010)
-    provides detailed research on aging, age-related impairments and Web
-    accessibility.
+<dl>
+<!-- @@ add back when updated
+<dt>["Web Accessibility for Older Users" Presentation](http://www.w3.org/WAI/presentations/ageing/)  
+</dt>
+<dd>Presents the changing worldwide demographics, the prevalence and impact of age-related limitations and older people's use of the web, some requirements of older users, and the role of WAI accessibility guidelines in meeting these requirements.</dd>
+-->
 
-### Practical Computer Guidance to Help Older Users
+<dt>[Developing a Web Accessibility Business Case for Your Organization](/WAI/bcase)</dt>
+<dd>Includes the following sections that specifically apply: [Overlap with Older Users' Needs](/WAI/bcase/soc.html#older) and [Access for Older People](/WAI/bcase/soc.html#of).</dd>
 
--   [Better Web Browsing: Tips for Customizing Your
-    Computer](https://www.w3.org/WAI/users/browsing) <br>
-    This practical
-    resource provides guidance on how to set up your computer to work
-    better for your specific needs and preferences; for example,
-    enlarging text, making the mouse pointer bigger, and using the
-    keyboard (instead of the mouse) to browse websites.
+<dt>[Better Web Browsing: Tips for Customizing Your Computer]( http://www.w3.org/WAI/users/browsing)</dt>
+<dd>Provides guidance for users on how to set your computer to work better for your specific needs and preferences so it's easier to use websites; for example, enlarging text, making the mouse pointer bigger, and using the keyboard instead of the mouse to browse websites.</dd>
 
-### Technical Resources to Improve Accessibility and Usability for Older Users
+</dl>
 
-The following resources are helpful to those who want or need to make
-their websites, web applications, and web tools usable by older users.
-For example,
 
--   [Developing Websites for Older People: How Web Content Accessibility
-    Guidelines (WCAG) 2.0
-    Applies]({% link _older-users/developing.md %})
-    introduces WCAG 2.0 and techniques to improve the accessibility and
-    usability of websites and web applications for older people.
--   [Developing a Web Accessibility Business Case for Your
-    Organization](https://www.w3.org/WAI/bcase/) and [Social Factors
-    Developing a Web Accessibility Business
-    Case](https://www.w3.org/WAI/bcase/soc.html) for your Organization,
-    specifically the sections Overlap with Older Users'
-    Needs and  Access for Older People are relevant in understanding how
-    to introduce accessibility in an Organization.
--   WAI's [User Agent Accessibility
-    Guidelines (UAAG)](https://www.w3.org/WAI/intro/uaag) provides
-    guidance on how to make web browsers and media players accessible to
-    older users who have accessibility needs that should be met through
-    the browser instead of requiring additional assistive technologies.
