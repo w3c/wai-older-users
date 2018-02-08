@@ -19,46 +19,42 @@ order: 3
 
 ## Introduction {#intro}
 
-[Web Accessibility for Older Users: A Literature Review](http://www.w3.org/TR/wai-age-literature/) analyzes guidelines, professional articles, and scientific literature on the requirements of people with Web accessibility needs related to ageing.
+[Web Accessibility for Older Users: A Literature Review](http://www.w3.org/TR/wai-age-literature/) analyzes guidelines, professional articles, and scientific literature on the requirements of people with web accessibility needs related to ageing.
 
 ## Who the Literature Review is for {#for}
 
-The purpose of the Literature Review is to inform education and outreach to better promote accessibility solutions for older Web users, and potentially develop profiles or extensions to WAI guidelines.
+The Literature Review itself is primarily for researchers and academics.
 
-The Literature Review itself is primarily for researchers and academics. The outcomes of the Literature Review area also being used to develop resources for users, industry, and others.
+The outcomes of the Literature Review are also being used to:
+
+- promote accessibility solutions for older web users
+- develop resources for users, industry, and others
 
 ## What is in the Literature Review {#is}
 
-Web Accessibility for Older Users: A Literature Review summarizes
-literature and statistics about how older adults use the Web,
-age-related functional limitations, and requirements of older Web users
-in the “Older adults and age-related functional limitations” section.
-The bulk of the literature review analyzes:
+The Literature Review summarizes:
 
--   Existing literature reviews
--   Previous approaches to ‘senior friendly’ Web guidelines
--   Relationship with WAI guidelines
--   Training older adults to Use ICT and the Web
--   Studies of older Web users’ specific disabilities
--   Aspects of Web Design affecting the elderly
--   Involving the elderly in Web design and development
--   General usability studies involving elderly people
+- literature and statistics about how older adults use the Web
+- age-related functional limitations
+- requirements of older Web users
 
-An initial finding of the Literature Review is that while existing WAI
-guidelines address many requirements of older Web users, there is little
-reference to the [WAI guidelines](https://www.w3.org/WAI/guid-tech.html)
-in literature about and guidelines covering the needs of older Web
-users.
+The bulk of the Literature Review analyzes:
+
+-   existing literature reviews
+-   previous approaches to ‘senior friendly’ web guidelines
+-   relationship with WAI guidelines
+-   training older adults to use information and communications technology (ICT) and the web
+-   studies of older web users’ specific disabilities
+-   aspects of web design affecting the elderly
+-   involving the elderly in web design and development
+-   general usability studies involving elderly people
+
+A finding of the Literature Review is that existing WAI guidelines address many requirements of older web users. Yet, there is little reference to the [WAI guidelines](https://www.w3.org/WAI/guid-tech.html) in literature and guidance covering the needs of older Web users.
 
 ### Technical report format
 
-The Literature Review follows the W3C format for technical reports that
-includes several sections at the beginning: links to different versions,
-editors, copyright, abstract, and status with the link to errata and the
-email address for comments.
+The Literature Review follows the W3C format for technical reports that includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status.
 
 ### Who developed the WAI-AGE Literature Review
 
-The Literature Review was developed with the [Education and Outreach
-Working Group](https://www.w3.org/WAI/EO/) (EOWG), which is part of the
-World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
+The Literature Review was developed with the [Education and Outreach Working Group](https://www.w3.org/WAI/EO/) (EOWG), which is part of the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
