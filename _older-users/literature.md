@@ -21,7 +21,7 @@ order: 3
 
 [Web Accessibility for Older Users: A Literature Review](http://www.w3.org/TR/wai-age-literature/) analyzes guidelines, professional articles, and scientific literature on the requirements of people with web accessibility needs related to ageing.
 
-## Who the Literature Review is for {#for}
+## Who the Literature Review is For {#for}
 
 The Literature Review itself is primarily for researchers and academics.
 
@@ -124,11 +124,14 @@ Alzheimer's disease) is experienced by some older people (1.4% of people 65–69
     on the site)
 -   Concentration and distraction issues (consider the volume of information on some pages, and the multiple animated advertisements
     that are sometimes present)
+    
+## Status and Technical Report Format
 
-## Technical report format
+The Literature Review was conducted in 2008. We do not currently plan to update it. Most of the information is still relevant.
 
 The Literature Review follows the W3C format for technical reports that includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status.
 
-## Who developed the WAI-AGE Literature Review
+
+## Who developed the Literature Review
 
 The Literature Review was developed with the [Education and Outreach Working Group](https://www.w3.org/WAI/EO/) (EOWG), which is part of the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
