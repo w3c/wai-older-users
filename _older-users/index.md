@@ -92,10 +92,10 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 
 <dl>
 
-<dt>Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>)</dt>
+<dt><a href="http://www.w3.org/WAI/intro/wcag">Web Content Accessibility Guidelines (WCAG)</a></dt>
 <dd>WCAG materials include guidelines and techniques for making websites and web applications work better for people with disabilities, as well as for older users with accessibility needs due to ageing.</dd>
 
-<dt>User Agent Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/uaag">UAAG</a>)</dt>
+<dt><a href="http://www.w3.org/WAI/intro/uaag">User Agent Accessibility Guidelines (UAAG)</a></dt>
 <dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies](http://www.w3.org/WAI/users/involving#at).</dd>
 </dl>
 
