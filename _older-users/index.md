@@ -41,7 +41,7 @@ A European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) 
 The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](http://www.w3.org) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) address most older user needs.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="full" %}
+{% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="simple" %}
 <dl>
 
 <dt><a href="http://www.w3.org/WAI/intro/wai-age-literature">Overview of "Web Accessibility for Older Users: A Literature Review"</a></dt>
@@ -74,7 +74,7 @@ Many older people have age-related impairments that can affect how they use the 
 These issues overlap with the accessibility needs of people with disabilities. Thus, websites, applications, and tools that are accessible to people with disabilities are more accessible to older users as well.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title=" More About Older User Needs " class="full" %}
+{% include box.html type="start" h="3" title=" More About Older User Needs " class="simple" %}
 {:/}
 
 -   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
@@ -102,7 +102,7 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 </dl>
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More About Standards" class="full" %}
+{% include box.html type="start" h="3" title="More About Standards" class="simple" %}
 {:/}
 
 -   For an introduction to accessibility guidelines and other standards, see [W3C Accessibility Standards Overview](https://www.w3.org/WAI/guid-tech).
@@ -135,10 +135,11 @@ _**Note:** These resources have not been updated recently. Some details may be o
 <dd>Presents the changing worldwide demographics, the prevalence and impact of age-related limitations and older people's use of the web, some requirements of older users, and the role of WAI accessibility guidelines in meeting these requirements.</dd>
 -->
 
-<dt>[Developing a Web Accessibility Business Case for Your Organization](/WAI/bcase)</dt>
-<dd>Includes the following sections that specifically apply: [Overlap with Older Users' Needs](/WAI/bcase/soc.html#older) and [Access for Older People](/WAI/bcase/soc.html#of).</dd>
+<dt><a href="/WAI/bcase">Developing a Web Accessibility Business Case for Your Organization</a>
+</dt>
+<dd>Includes the following sections that specifically apply: <a href="/WAI/bcase/soc.html#older">Overlap with Older Users' Needs</a> and <a href="/WAI/bcase/soc.html#of">Access for Older People</a>.</dd>
 
-<dt>[Better Web Browsing: Tips for Customizing Your Computer]( http://www.w3.org/WAI/users/browsing)</dt>
+<dt><a href="http://www.w3.org/WAI/users/browsing">Better Web Browsing: Tips for Customizing Your Computer</a></dt>
 <dd>Provides guidance for users on how to set your computer to work better for your specific needs and preferences so it's easier to use websites; for example, enlarging text, making the mouse pointer bigger, and using the keyboard instead of the mouse to browse websites.</dd>
 
 </dl>
