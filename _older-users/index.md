@@ -32,7 +32,7 @@ Guidance on how to make your websites, web applications, and web tools work bett
 
 Older web users are an increasing market segment and an important target group for many businesses, governments, and other organizations.
 
-A European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) researched:
+The European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) researched:
 
 -   the needs of older web users,
 -   existing guidance for addressing older user needs, and
@@ -41,12 +41,11 @@ A European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/) 
 The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](http://www.w3.org) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) address most older user needs.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="simple" %}
+{% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="simple aside" %}
 <dl>
 
 <dt><a href="http://www.w3.org/WAI/intro/wai-age-literature">Overview of "Web Accessibility for Older Users: A Literature Review"</a></dt>
-<dd>Provides a brief introduction of the scope, audience, and content of the <a href="http://www.w3.org/TR/wai-age-literature/">Literature Review [@@format]</a>.</dd>
-
+<dd>Provides a brief introduction of the scope, audience, and content of the <a href="http://www.w3.org/TR/wai-age-literature/">Literature Review <img src="https://www.w3.org/Icons/tr.png" alt="different format"/></a>.</dd>
 <dt><a href="https://www.w3.org/WAI/posts/2009/older-users-online">Older Users Online - WAI Guidelines Address Older Users’ Web Experience</a> <br />
 <cite>(Originally published in User Experience Magazine, Vol 8, Issue 1, 2009)</cite></dt>
 <dd>Explains age-related impairments that impact web use, requirements for web design that enhance the ability of older people to use the web and how existing accessibility guidelines for people with disabilities cover the needs of older users, and future work in this area.</dd>
@@ -74,7 +73,7 @@ Many older people have age-related impairments that can affect how they use the 
 These issues overlap with the accessibility needs of people with disabilities. Thus, websites, applications, and tools that are accessible to people with disabilities are more accessible to older users as well.
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title=" More About Older User Needs " class="simple" %}
+{% include box.html type="start" h="3" title=" More About Older User Needs " class="simple aside" %}
 {:/}
 
 -   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
@@ -93,16 +92,15 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 
 <dl>
 
-<dt>Web Content Accessibility Guidelines [WCAG](http://www.w3.org/WAI/intro/wcag)</dt>
+<dt>Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>)</dt>
 <dd>WCAG materials include guidelines and techniques for making websites and web applications work better for people with disabilities, as well as for older users with accessibility needs due to ageing.</dd>
 
-<dt>User Agent Accessibility Guidelines [UAAG](http://www.w3.org/WAI/intro/uaag)</dt>
+<dt>User Agent Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/uaag">UAAG</a>)</dt>
 <dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies](http://www.w3.org/WAI/users/involving#at).</dd>
-
 </dl>
 
 {::nomarkdown}
-{% include box.html type="start" h="3" title="More About Standards" class="simple" %}
+{% include box.html type="start" h="3" title="More About Standards" class="simple aside" %}
 {:/}
 
 -   For an introduction to accessibility guidelines and other standards, see [W3C Accessibility Standards Overview](https://www.w3.org/WAI/guid-tech).
@@ -111,10 +109,10 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 {% include box.html type="end" %}
 {:/}
 
-### Detailed Guidance on Designing for Older Users
+## Specific Guidance on Designing for Older Users
 {:#wcag-details}
 
-**A key resource is [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](http://www.w3.org/WAI/older-users/developing.html).** It:
+**A key resource for designers, developers, managers, researchers, and others is [Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](http://www.w3.org/WAI/older-users/developing.html).** It:
 
 -   Introduces how to use WCAG 2.0 to improve the accessibility and usability of websites and web applications for older people.
 -   Is organized by user needs and WCAG principles.
