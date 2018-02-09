@@ -45,6 +45,7 @@ collections:
     output: true
     acknowledgements: false
     permalink: /:collection/:path/
+    prevnext: false
 
 defaults:
   -
