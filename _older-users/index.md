@@ -97,6 +97,10 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 
 <dt><a href="http://www.w3.org/WAI/intro/uaag">User Agent Accessibility Guidelines (UAAG)</a></dt>
 <dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies](http://www.w3.org/WAI/users/involving#at).</dd>
+
+<dt><a href="http://www.w3.org/WAI/intro/atag">Authoring Tool Accessibility Guidelines (ATAG)</a></dt>
+<dd>Authoring tools are used to create web content. Examples of authoring tools are HTML editors and content management systems (CMS). Websites that let users add content &mdash; such as blogs, wikis, photo sharing sites, online forums, and social networking sites &mdash; are also authoring tools. These need to be accessible so that older people can use them.</dd>
+
 </dl>
 
 {::nomarkdown}
