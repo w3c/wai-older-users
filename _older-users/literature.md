@@ -70,6 +70,28 @@ This section provides summaries from the Literature Review.
 
 Hearing starts to decline at around 50 years and affects a person's ability to hear higher pitched sounds as well as discern the foreground from background audio such as music or other sounds. Some hearing loss is experienced by 47% of people 61 to 80 years and 93% of people over 81 years. Moderate or severe hearing loss or profound deafness is experienced by 20% of people aged 61 - 80 and 75% of people over 80.
 
+### Ageing and Vision Declide
+
+#### Impact of vision decline:
+
+- Decreasing ability to focus on near tasks
+- Changing color perception and sensitivity
+- Decreasing contrast sensitivity
+
+#### Prevalence of significant vision lose:
+
+- 16% of people 65 - 74 years
+- 19% of people 75 - 84 years
+- 46% of people 85+ years
+
+Vision decline includes:
+
+- Decreasing ability to focus on near tasks, including a computer screen
+- Changing color perception and sensitivity - less violet light is registered, making it easier to see reds and yellows than blues and greens, and often making dark blue and black indistinguishable
+- Decreasing contrast sensitivity from pupil shrinkage - resulting in the need for more light and higher contrast (an 80 year old typically has 80% less contrast sensitivity than a 20 year old)
+
+Vision decline often starts in a person's mid-40s. 86% of Australians over 40 require reading glasses to correct for near vision. Significant vision loss (that can't be corrected) affecting everyday life is estimated to affect 16% of people 65 to 74 years, and 46% of those over 85 years in the UK.
+
 ### Ageing and Physical Decline
 
 #### Impact of physical decline:
