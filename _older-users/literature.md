@@ -154,6 +154,6 @@ The Literature Review was conducted in 2008. We do not currently plan to update 
 The Literature Review follows the W3C format for technical reports that includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status.
 
 
-## Who developed the Literature Review
+## Who Developed the Literature Review
 
 The Literature Review was developed under the Web Accessibility Initiative: Ageing Education and Harmonisation ([WAI-AGE](http://www.w3.org/WAI/WAI-AGE/)) Project, supported by the European Union's 6th Research Framework Programme (FP6). WAI-AGE work was conducted with the Education and Outreach Working Group [EOWG](https://www.w3.org/WAI/EO/)), which is part of the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
