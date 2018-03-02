@@ -1,6 +1,7 @@
 ---
 title: " Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users"
-title_html: " Older Users and Web Accessibility:<br>Meeting the Needs of Ageing Web Users"
+title_html: "Older Users and Web Accessibility:<br>Meeting the Needs of Ageing Web Users"
+nav_title: "Overview"
 order: 1
 permalink: /older-users/
 footer: >
