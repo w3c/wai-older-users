@@ -1,8 +1,11 @@
 ---
 title: " Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users"
+title_html: " Older Users and Web Accessibility:<br>Meeting the Needs of Ageing Web Users"
 order: 1
 permalink: /older-users/
-redirect_from: /
+footer: >
+  <p><strong>Status:</strong> Updated 18 October 2010<br>
+  Editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors:  <a href="https://www.w3.org/People/Andrew/" >Andrew Arch</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>), related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the 6th Framework</strong>.</p>
 ---
 
 {::nomarkdown}
@@ -38,7 +41,7 @@ The European Commission-funded [WAI-AGE Project](https://www.w3.org/WAI/WAI-AGE/
 -   existing guidance for addressing older user needs, and
 -   the overlap with web accessibility for people with disabilities.
 
-The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](http://www.w3.org) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)) address most older user needs.
+The results of the research and subsequent work determined that existing international accessibility standards from the [W3C](https://www.w3.org) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)) address most older user needs.
 
 {::nomarkdown}
 {% include box.html type="start" h="3" title="More Background: Literature Review and Article" class="simple aside" %}

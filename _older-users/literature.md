@@ -1,7 +1,9 @@
 ---
-title: " Overview of “Web Accessibility for Older Users: A Literature Review”"
+title: "Overview of “Web Accessibility for Older Users: A Literature Review”"
 nav_title: "Literature Review Overview"
 order: 3
+footer: >
+  <p><strong>Content last updated:</strong> 16 June 2008 (to be updated with future publications of the Literature Review and related documents)<br>Editors: Shawn Lawton Henry and Andrew Arch. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::options toc_levels="2" /}
