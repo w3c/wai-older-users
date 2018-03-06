@@ -3,7 +3,10 @@ title: "Overview of “Web Accessibility for Older Users: A Literature Review”
 nav_title: "Literature Review Overview"
 order: 3
 footer: >
-  <p><strong>Content last updated:</strong> 16 June 2008 (to be updated with future publications of the Literature Review and related documents)<br>Editors: Shawn Lawton Henry and Andrew Arch. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date:</strong> Updated 22 February 2018. First published 2008.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Andrew/" >Andrew Arch</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and Vicki Menezes Miller.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+
 ---
 
 {::options toc_levels="2" /}
