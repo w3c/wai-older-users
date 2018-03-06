@@ -6,7 +6,7 @@ order: 2
 footer: >
   <p><strong>Date:</strong> Reviewed January 2018. Updated 22 September 2010. <!--[<a href="../changelog/">changelog</a>]--></p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="http://www.w3.org/People/Shawn/">Shawn Henry</a>, Suzette Keith, Kate Roberts. </p>
-  <p>Developed with input from the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html#participants">WAI-AGE Task Force</a> and the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html#participants">WAI-AGE Task Force</a>. Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
 ---
 
