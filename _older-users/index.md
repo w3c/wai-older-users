@@ -100,10 +100,10 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 <dt><a href="{{ "/standards-guidelines/wcag/" | relative_url }}">Web Content Accessibility Guidelines (WCAG)</a></dt>
 <dd>WCAG materials include guidelines and techniques for making websites and web applications work better for people with disabilities, as well as for older users with accessibility needs due to ageing.</dd>
 
-<dt><a href="http://www.w3.org/WAI/intro/uaag">User Agent Accessibility Guidelines (UAAG)</a></dt>
+<dt><a href="{{ "/standards-guidelines/uaag/" | relative_url }}">User Agent Accessibility Guidelines (UAAG)</a></dt>
 <dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies](http://www.w3.org/WAI/users/involving#at).</dd>
 
-<dt><a href="http://www.w3.org/WAI/intro/atag">Authoring Tool Accessibility Guidelines (ATAG)</a></dt>
+<dt><a href="{{ "/standards-guidelines/atag/" | relative_url }}">Authoring Tool Accessibility Guidelines (ATAG)</a></dt>
 <dd>Authoring tools are used to create web content. Examples of authoring tools are HTML editors and content management systems (CMS). Websites that let users add content &mdash; such as blogs, wikis, photo sharing sites, online forums, and social networking sites &mdash; are also authoring tools. These need to be accessible so that older people can use them.</dd>
 
 </dl>
