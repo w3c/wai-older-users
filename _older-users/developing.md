@@ -52,7 +52,7 @@ descriptions, examples, and resources from “Understanding WCAG 2.0”.
 
 To learn more about WCAG, see:
 
--   [WCAG Overview](http://www.w3.org/WAI/intro/wcag.php) - provides
+-   [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }}) - provides
     background, an introduction to WCAG, and links to additional
     information
 -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20) -

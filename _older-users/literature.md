@@ -54,7 +54,7 @@ The bulk of the Literature Review analyzes:
 -   involving the elderly in web design and development
 -   general usability studies involving elderly people
 
-A finding of the Literature Review is that existing WAI guidelines address many requirements of older web users. Yet, there is little reference to the [WAI guidelines](https://www.w3.org/WAI/guid-tech.html) in literature and guidance covering the needs of older Web users.
+A finding of the Literature Review is that existing WAI guidelines address many requirements of older web users. Yet, there is little reference to the [WAI guidelines]({{ "/standards-guidelines/" | relative_url }}) in literature and guidance covering the needs of older Web users.
 
 ## Summary of Impact and Prevalence
 

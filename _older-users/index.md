@@ -82,7 +82,7 @@ These issues overlap with the accessibility needs of people with disabilities. T
 {:/}
 
 -   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
--   For short story (_persona_) showing some accessibility issues that an older person can face on the web, see [Yun, retiree with low vision, hand tremor, and mild short-term memory loss](https://www.w3.org/WAI/intro/people-use-web/stories#retiree) in Stories of Web Users.
+-   For short story (_persona_) showing some accessibility issues that an older person can face on the web, see [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree) in Stories of Web Users.
 -   If you want to learn about older users directly by including real people in your user studies, see [Involving Users in Web Projects for Better, Easier Accessibility](https://www.w3.org/WAI/users/involving.html).
 -   **For videos** and descriptions of issues that impact people who are elderly and people with disabilities, see [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/). These videos include older users: [Customizable Text](https://www.w3.org/WAI/perspectives/customizable), [Colors with Good Contrast](https://www.w3.org/WAI/perspectives/contrast), [Notifications and Feedback](https://www.w3.org/WAI/perspectives/notifications), [Understandable Content](https://www.w3.org/WAI/perspectives/understandable), and [Large Links, Buttons, and Controls.](https://www.w3.org/WAI/perspectives/controls)
 
@@ -97,7 +97,7 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 
 <dl>
 
-<dt><a href="http://www.w3.org/WAI/intro/wcag">Web Content Accessibility Guidelines (WCAG)</a></dt>
+<dt><a href="{{ "/standards-guidelines/wcag/" | relative_url }}">Web Content Accessibility Guidelines (WCAG)</a></dt>
 <dd>WCAG materials include guidelines and techniques for making websites and web applications work better for people with disabilities, as well as for older users with accessibility needs due to ageing.</dd>
 
 <dt><a href="http://www.w3.org/WAI/intro/uaag">User Agent Accessibility Guidelines (UAAG)</a></dt>
