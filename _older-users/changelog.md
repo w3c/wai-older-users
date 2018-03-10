@@ -156,7 +156,7 @@ Initial outline and ideas:
     -   reference [BAD](http://www.w3.org/WAI/demos/bad/) as an example
         of good implementation
     -   point to [Involving Users in Web Projects for Better, Easier
-        Accessibility](http://www.w3.org/WAI/users/involving.html)
+        Accessibility]({{ "/plan/involving-users/" | relative_url }})
     -   point to [Implementation Plan for Web
         Accessibility](http://www.w3.org/WAI/impl/)
     -   point to [Evaluating Web Sites for
