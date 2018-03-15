@@ -4,6 +4,8 @@ title_html: "Older Users and Web Accessibility:<br>Meeting the Needs of Ageing W
 nav_title: "Meeting the Needs of Ageing Web Users"
 order: 1
 permalink: /older-users/
+github:
+  repository: w3c/wai-older-users
 footer: >
  <p><strong>Date:</strong> Updated 13 February 2018. First published 2010.</p>
  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/Andrew/" >Andrew Arch</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and Vicki Menezes Miller.</p>

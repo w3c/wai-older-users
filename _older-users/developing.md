@@ -2,6 +2,8 @@
 title: "Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies"
 title_html: "Developing Websites for Older People:<br>How Web Content Accessibility Guidelines (WCAG) 2.0 Applies"
 nav_title: "How WCAG 2.0 Applies"
+github:
+  repository: w3c/wai-older-users
 order: 2
 footer: >
   <p><strong>Date:</strong> Reviewed January 2018. Updated 22 September 2010. <!--[<a href="../changelog/">changelog</a>]--></p>

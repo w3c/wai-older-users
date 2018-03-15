@@ -2,6 +2,8 @@
 title: "Overview of “Web Accessibility for Older Users: A Literature Review”"
 nav_title: "Literature Review Overview"
 order: 3
+github:
+  repository: w3c/wai-older-users
 footer: >
   <p><strong>Date:</strong> Updated 22 February 2018. First published 2008.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Andrew/" >Andrew Arch</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> and Vicki Menezes Miller.</p>
