@@ -12,6 +12,10 @@ footer: >
 
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
 An extensive [literature
 review](http://www.w3.org/WAI/intro/wai-age-literature) identified that
 existing standards from the W3C Web Accessibility Initiative
@@ -24,6 +28,11 @@ Please see **[Web Accessibility and Older People: Meeting the Needs of
 Ageing Web Users](http://www.w3.org/WAI/older-users/)** for additional
 background and resources on the overlapping needs of older people and
 people with disabilities.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2..4" /}
 
