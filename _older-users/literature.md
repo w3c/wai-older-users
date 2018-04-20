@@ -11,6 +11,21 @@ footer: >
 
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces a review of literature about web accessibility and older users. It includes summaries of the impact and prevelance of:
+
+* ageing and [hearing loss](#hearing)
+* ageing and [vision decline](#vision)
+* ageing and [physical decline](#physical)
+* ageing and [cognitive decline](#cognitive)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 {::options toc_levels="2" /}
 
 {::nomarkdown}
@@ -58,11 +73,11 @@ The bulk of the Literature Review analyzes:
 
 A finding of the Literature Review is that existing WAI guidelines address many requirements of older web users. Yet, there is little reference to the [WAI guidelines]({{ "/standards-guidelines/" | relative_url }}) in literature and guidance covering the needs of older Web users.
 
-## Summary of Impact and Prevalence
+## Summary of Impact and Prevalence {#summary}
 
 This section provides summaries from the Literature Review.
 
-### Ageing and Hearing Loss
+### Ageing and Hearing Loss {#hearing}
 
 #### Impact of hearing loss:
 
@@ -77,7 +92,7 @@ This section provides summaries from the Literature Review.
 
 Hearing starts to decline at around 50 years and affects a person's ability to hear higher pitched sounds as well as discern the foreground from background audio such as music or other sounds. Some hearing loss is experienced by 47% of people 61 to 80 years and 93% of people over 81 years. Moderate or severe hearing loss or profound deafness is experienced by 20% of people aged 61 - 80 and 75% of people over 80.
 
-### Ageing and Vision Declide
+### Ageing and Vision Declide {#vision}
 
 #### Impact of vision decline:
 
@@ -99,7 +114,7 @@ Vision decline includes:
 
 Vision decline often starts in a person's mid-40s. 86% of Australians over 40 require reading glasses to correct for near vision. Significant vision loss (that can't be corrected) affecting everyday life is estimated to affect 16% of people 65 to 74 years, and 46% of those over 85 years in the UK.
 
-### Ageing and Physical Decline
+### Ageing and Physical Decline {physical}
 
 #### Impact of physical decline:
 
@@ -122,7 +137,7 @@ reduced fine motor control, and essential tremor or Parkinson's Disease with ass
 
 Arthritis is estimated to affect at least 50% of people over 65; essential tremor (one of many forms of tremor) is estimated to affect up to 5% of those over 40 and up to 20% of people over 65; and Parkinson's affects around 4% of those over 85.
 
-### Ageing and Cognitive Decline
+### Ageing and Cognitive Decline {#cognitive}
 
 #### Impact of cognitive decline:
 
@@ -154,13 +169,13 @@ Alzheimer's disease) is experienced by some older people (1.4% of people 65–69
 -   Concentration and distraction issues (consider the volume of information on some pages, and the multiple animated advertisements
     that are sometimes present)
     
-## Status and Technical Report Format
+## Status and Technical Report Format {#status}
 
 The Literature Review was conducted in 2008. We do not currently plan to update it. Most of the information is still relevant.
 
 The Literature Review follows the W3C format for technical reports that includes several sections at the beginning: links to different versions, editors, copyright, abstract, and status.
 
 
-## Who Developed the Literature Review
+## Who Developed the Literature Review {#who}
 
 The Literature Review was developed by the Education and Outreach Working Group ([EOWG](https://www.w3.org/WAI/EO/)), with support of the [WAI-AGE Project](http://www.w3.org/WAI/WAI-AGE/).
