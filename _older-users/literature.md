@@ -15,12 +15,12 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a review of literature about web accessibility and older users. It includes summaries of the impact and prevelance of:
+This page introduces a review of literature about web accessibility and older users. It includes summaries of the **impact and prevelance of ageing** and:
 
-* ageing and [hearing loss](#hearing)
-* ageing and [vision decline](#vision)
-* ageing and [physical decline](#physical)
-* ageing and [cognitive decline](#cognitive)
+* [hearing loss](#hearing)
+* [vision decline](#vision)
+* [physical decline](#physical)
+* [cognitive decline](#cognitive)
 
 {::nomarkdown}
 {% include box.html type="end" %}
