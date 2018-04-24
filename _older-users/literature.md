@@ -15,7 +15,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces a review of literature about web accessibility and older users. It includes summaries of the **impact and prevelance of ageing** and:
+This page introduces a review of literature about web accessibility and older users. It includes summaries of the **impact and prevalence of ageing** and:
 
 * [hearing loss](#hearing)
 * [vision decline](#vision)
@@ -92,7 +92,7 @@ This section provides summaries from the Literature Review.
 
 Hearing starts to decline at around 50 years and affects a person's ability to hear higher pitched sounds as well as discern the foreground from background audio such as music or other sounds. Some hearing loss is experienced by 47% of people 61 to 80 years and 93% of people over 81 years. Moderate or severe hearing loss or profound deafness is experienced by 20% of people aged 61 - 80 and 75% of people over 80.
 
-### Ageing and Vision Declide {#vision}
+### Ageing and Vision Decline {#vision}
 
 #### Impact of vision decline:
 
