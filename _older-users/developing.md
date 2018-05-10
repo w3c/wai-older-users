@@ -645,7 +645,7 @@ keyboard.
 
 More techniques are listed under various success criteria for [Guideline
 2.1 - Keyboard
-Accessible](http://www.w3.org/WAI/WCAG20/quickref/Overview.php#keyboard-operation)
+Accessible](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)
 and [Guideline 2.4 -
 Navigable](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)
 in "How to Meet WCAG 2.0".
