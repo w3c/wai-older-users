@@ -225,8 +225,6 @@ sensitivity.
     text](http://www.w3.org/TR/WCAG20-TECHS/G18)
 -   [G14: Ensuring that information conveyed by color differences is
     also available in text](http://www.w3.org/TR/WCAG20-TECHS/G14)
--   [G122: Including a text cue whenever color cues are
-    used](http://www.w3.org/TR/WCAG20-TECHS/G122)
 -   Using a light pastel background rather than a white background
     behind black text to create sufficient but not extreme contrast
     (future link)
