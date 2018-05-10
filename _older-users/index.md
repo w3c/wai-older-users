@@ -85,7 +85,7 @@ These issues overlap with the accessibility needs of people with disabilities. T
 
 -   **For statistics on the prevalence of age-related impairments and more on how they impact web use, see the [Summary of Impact and Prevalence section](https://w3c.github.io/wai-older-users/older-users/literature/#summary-of-impact-and-prevalence) of the Literature Review Overview.**
 -   For short story (_persona_) showing some accessibility issues that an older person can face on the web, see [Yun, retiree with low vision, hand tremor, and mild short-term memory loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree) in Stories of Web Users.
--   If you want to learn about older users directly by including real people in your user studies, see [Involving Users in Web Projects for Better, Easier Accessibility]({{ "/plan/involving-users/" | relative_url }}).
+-   If you want to learn about older users directly by including real people in your user studies, see [Involving Users in Web Projects for Better, Easier Accessibility]({{ "/planning/involving-users/" | relative_url }}).
 -   **For videos** and descriptions of issues that impact people who are elderly and people with disabilities, see [Web Accessibility Perspectives]({{ "/perspective-videos/" | relative_url }}). These videos include older users: [Customizable Text]({{ "/perspective-videos/customizable" | relative_url }}), [Colors with Good Contrast]({{ "/perspective-videos/contrast" | relative_url }}), [Notifications and Feedback]({{ "/perspective-videos/notifications" | relative_url }}), [Understandable Content]({{ "/perspective-videos/understandable" | relative_url }}), and [Large Links, Buttons, and Controls.]({{ "/perspective-videos/controls" | relative_url }})
 
 {::nomarkdown}
@@ -103,7 +103,7 @@ The World Wide Web Consortium ([W3C](http://www.w3.org/Consortium/)) is an inter
 <dd>WCAG materials include guidelines and techniques for making websites and web applications work better for people with disabilities, as well as for older users with accessibility needs due to ageing.</dd>
 
 <dt><a href="{{ "/standards-guidelines/uaag/" | relative_url }}">User Agent Accessibility Guidelines (UAAG)</a></dt>
-<dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies]({{ "/plan/involving-users/" | relative_url }}#at).</dd>
+<dd>UAAG explains how to make web browsers and media players accessible. Browser features are particularly important to older users who have accessibility needs that should be met through browsers instead of requiring additional [assistive technologies]({{ "/planning/involving-users/" | relative_url }}#at).</dd>
 
 <dt><a href="{{ "/standards-guidelines/atag/" | relative_url }}">Authoring Tool Accessibility Guidelines (ATAG)</a></dt>
 <dd>Authoring tools are used to create web content. Examples of authoring tools are HTML editors and content management systems (CMS). Websites that let users add content &mdash; such as blogs, wikis, photo sharing sites, online forums, and social networking sites &mdash; are also authoring tools. These need to be accessible so that older people can use them.</dd>
