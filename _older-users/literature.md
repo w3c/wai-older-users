@@ -114,7 +114,7 @@ Vision decline includes:
 
 Vision decline often starts in a person's mid-40s. 86% of Australians over 40 require reading glasses to correct for near vision. Significant vision loss (that can't be corrected) affecting everyday life is estimated to affect 16% of people 65 to 74 years, and 46% of those over 85 years in the UK.
 
-### Ageing and Physical Decline {physical}
+### Ageing and Physical Decline {#physical}
 
 #### Impact of physical decline:
 
