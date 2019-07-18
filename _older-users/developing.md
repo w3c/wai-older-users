@@ -100,7 +100,9 @@ they are drawn from different guidelines to address a particular aspect.
 {::nomarkdown}
 {% capture boxtitle %}
 {:/}
+
 #### Text size {#textsize}
+
 {::nomarkdown}
 {% endcapture %}
 {% include box.html type="start" title=boxtitle class="large" %}
