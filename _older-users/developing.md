@@ -12,6 +12,8 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html#participants">WAI-AGE Task Force</a>. Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ref: /older-users/developing/
 changelog: /older-users/changelog/
+resource:
+  ref: /older-users/
 ---
 
 {::nomarkdown}
