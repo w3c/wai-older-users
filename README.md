@@ -2,7 +2,7 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-older-users/older-users/
+https://wai-older-users.netlify.com/older-users/
 
 Older User Resources:
 
