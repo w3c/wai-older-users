@@ -2,14 +2,16 @@
 title: "Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies"
 title_html: "Developing Websites for Older People:<br>How Web Content Accessibility Guidelines (WCAG) 2.0 Applies"
 nav_title: "How WCAG 2.0 Applies"
+lang: en
 github:
   repository: w3c/wai-older-users
 order: 2
 footer: >
-  <p><strong>Date:</strong> Reviewed January 2018. Updated 22 September 2010. <!--[<a href="../changelog/">changelog</a>]--></p>
+  <p><strong>Date:</strong> Reviewed January 2018. Updated 22 September 2010. CHANGELOG</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Andrew/">Andrew Arch</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="http://www.w3.org/People/Shawn/">Shawn Henry</a>, Suzette Keith, Kate Roberts. </p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html#participants">WAI-AGE Task Force</a>. Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
-
+ref: /older-users/developing/
+changelog: /older-users/changelog/
 ---
 
 {::nomarkdown}

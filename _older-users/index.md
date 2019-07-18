@@ -4,12 +4,15 @@ title_html: "Older Users and Web Accessibility:<br>Meeting the Needs of Ageing W
 nav_title: "Meeting the Needs of Ageing Web Users"
 order: 1
 permalink: /older-users/
+lang: en
 github:
   repository: w3c/wai-older-users
 footer: >
- <p><strong>Date:</strong> Updated 13 February 2018. First published 2010.</p>
+ <p><strong>Date:</strong> Updated 13 February 2018. First published 2010. CHANGELOG</p>
  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/Andrew/" >Andrew Arch</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and Vicki Menezes Miller.</p>
  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+ref: /older-users/
+changelog: /older-users/changelog/
 ---
 
 {::nomarkdown}
