@@ -153,7 +153,7 @@ The following resources can help promote accessibility for older users.
 <dd>The older archived version includes the following sections that specifically apply: <a href="/WAI/business-case/archive/soc.php#older">Overlap with Older Users' Needs</a> and <a href="/WAI/business-case/archive/soc.php#of">Access for Older People</a>.</dd>
 
 <dt><a href="http://www.w3.org/WAI/users/browsing">Better Web Browsing: Tips for Customizing Your Computer</a></dt>
-<dd>Provides guidance for users on how to set your computer to work better for your specific needs and preferences so it's easier to use websites; for example, enlarging text, making the mouse pointer bigger, and using the keyboard instead of the mouse to browse websites.<br>_**Note:** This resource has not been updated recently. Some details are out of date, yet the general concepts still apply._
+<dd>Provides guidance for users on how to set your computer to work better for your specific needs and preferences so it's easier to use websites; for example, enlarging text, making the mouse pointer bigger, and using the keyboard instead of the mouse to browse websites.<br><em><strong>Note:</strong> This resource has not been updated recently. Some details are out of date, yet the general concepts still apply.</em>
 </dd>
 
 </dl>
