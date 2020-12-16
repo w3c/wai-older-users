@@ -3,6 +3,12 @@ title: "Overview of “Web Accessibility for Older Users: A Literature Review”
 nav_title: "Literature Review Overview"
 order: 3
 lang: en
+last_updated: 2018-02-22
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
+
 github:
   repository: w3c/wai-older-users
 footer: >
