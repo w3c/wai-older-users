@@ -7,6 +7,10 @@ order: 1
 permalink: /older-users/
 lang: en
 last_updated: 2020-08-14
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
 
 github:
   repository: w3c/wai-older-users
