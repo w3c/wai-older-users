@@ -3,8 +3,15 @@ title: "Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users
 title_html: "Older Users and Web Accessibility:<br>Meeting the Needs of Ageing Web Users"
 nav_title: "Meeting the Needs of Ageing Web Users"
 order: 1
+
 permalink: /older-users/
 lang: en
+last_updated: 2020-08-14
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
+
 github:
   repository: w3c/wai-older-users
 footer: >
@@ -14,7 +21,8 @@ footer: >
 ref: /older-users/
 changelog: /older-users/changelog/
 resource:
-  ref: /older-users/
+  ref: /older-users/   # translators do not change this line
+  
 ---
 
 {::nomarkdown}
