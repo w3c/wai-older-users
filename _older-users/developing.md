@@ -3,6 +3,11 @@ title: "Developing Websites for Older People: How Web Content Accessibility Guid
 title_html: "Developing Websites for Older People:<br>How Web Content Accessibility Guidelines (WCAG) 2.0 Applies"
 nav_title: "How WCAG 2.0 Applies"
 lang: en
+last_updated: 2010-09-22
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
 github:
   repository: w3c/wai-older-users
 order: 2
