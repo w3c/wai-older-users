@@ -1,8 +1,4 @@
-# wai-older-users
-
-Current Preview:
-
-https://wai-older-users.netlify.com/older-users/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b79d3a1-d09d-454c-a940-2e57148f4608/deploy-status)](https://app.netlify.com/sites/wai-older-users/deploys)
 
 Older User Resources:
 
