@@ -22,7 +22,6 @@ ref: /older-users/
 changelog: /older-users/changelog/
 resource:
   ref: /older-users/   # translators do not change this line
-  
 ---
 
 {::nomarkdown}
