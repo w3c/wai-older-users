@@ -6,7 +6,7 @@ order: 1
 
 permalink: /older-users/
 lang: en
-last_updated: 2020-08-14
+last_updated: 20@@-@@-@@
 # translators:   # delete the '#' and the space at the beginning of each line below that you use
 # - name: "first last"
 # contributors:
@@ -15,7 +15,7 @@ last_updated: 2020-08-14
 github:
   repository: w3c/wai-older-users
 footer: >
- <p><strong>Date:</strong> Updated 14 August 2020. First published 2010. CHANGELOG</p>
+ <p><strong>Date:</strong> Updated 4 March 2024. First published 2010. CHANGELOG</p>
  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/Andrew/" >Andrew Arch</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and Vicki Menezes Miller.</p>
  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Related to the  <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 ref: /older-users/
@@ -158,7 +158,7 @@ The following resources can help promote accessibility for older users.
 
 <dt><a href="/WAI/bcase">The Business Case for Digital Accessibility</a>
 </dt>
-<dd>The older archived version includes the following sections that specifically apply: <a href="/WAI/business-case/archive/soc.php#older">Overlap with Older Users' Needs</a> and <a href="/WAI/business-case/archive/soc.php#of">Access for Older People</a>.</dd>
+<dd>Includes some statistics and ideas related to older users.<br>(The separate old archived version includes the following sections that specifically apply to older users: <a href="/WAI/business-case/archive/soc.php#older">Overlap with Older Users' Needs</a> and <a href="/WAI/business-case/archive/soc.php#of">Access for Older People</a>.)</dd>
 
 <dt><a href="http://www.w3.org/WAI/users/browsing">Better Web Browsing: Tips for Customizing Your Computer</a></dt>
 <dd>Provides guidance for users on how to set your computer to work better for your specific needs and preferences so it's easier to use websites; for example, enlarging text, making the mouse pointer bigger, and using the keyboard instead of the mouse to browse websites.<br><em><strong>Note:</strong> This resource has not been updated recently. Some details are out of date, yet the general concepts still apply.</em>
